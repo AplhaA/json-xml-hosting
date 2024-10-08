@@ -6,18 +6,15 @@
                 "Name": "Smartphone",
                 "Category": "Electronics",
                 "Price": 299.99,
-                "Stock": 25,
-                "Description": "A powerful smartphone with a high-quality camera.",
-                "ImageURL": "https://example.com/smartphone.jpg"
+                "Stock": 25
+
             },
             {
                 "ProductID": "102",
                 "Name": "Laptop",
                 "Category": "Electronics",
                 "Price": 799.99,
-                "Stock": 15,
-                "Description": "A lightweight laptop with long battery life.",
-                "ImageURL": "https://example.com/laptop.jpg"
+                "Stock": 15
             }
         ]
     }
