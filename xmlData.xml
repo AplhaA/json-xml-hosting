@@ -5,7 +5,6 @@
         <Price>299.99</Price>
         <Stock>25</Stock>
     </Product>
-
     <Product ProductID="102">
         <Name>Laptop</Name>
         <Category>Electronics</Category>
@@ -13,4 +12,3 @@
         <Stock>15</Stock>
     </Product>
 </catalog>
-`;
